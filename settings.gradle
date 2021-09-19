@@ -1,2 +1,3 @@
+include ':spring-android-app'
 include ':app'
 rootProject.name = "spring-android"
